@@ -1,0 +1,44 @@
+
+/* xxl devices  */
+@media (min-width: 1400px) {
+
+}
+
+/* xl devices  */
+@media (max-width: 1400px) {
+
+    .px-xl-61 {
+        padding: 0 3.8rem;
+    }
+}
+
+/* lg devices  */
+@media (max-width: 1200px) {
+    
+    .px-lg-27 {
+        padding: 0rem 1.7rem;
+    }
+}
+/* md devices  */
+@media (max-width: 992px) {
+
+
+}
+/* sm devices  */
+@media (max-width: 768px) {
+
+
+}
+
+
+/* mobile devices  */
+@media (max-width: 576px) {
+    .px-64 {
+        padding: 0rem 1.4rem;
+    }
+
+    .header_middle_section a h4 {
+        font-size: var(--fs-24);
+    }
+
+}

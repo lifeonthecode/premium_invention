@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFBold.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFBoldItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Demi';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFDemiBoldRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFDemiBoldRegular.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Extra';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraBoldItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Demi';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFDemiBoldItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFDemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Extra';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraLightRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraLightRegular.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Extra';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraBoldRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraBoldRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFMediumRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFMediumRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFLightRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFLightRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Extra';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraLightItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFMediumItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFLightItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFHeavyItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFHeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Normal';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFNormalItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFNormalItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFHeavyRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFHeavyRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF Normal';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFNormalRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFNormalRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFThinRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFThinRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFThinItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFRegular.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Articulat CF';
+    src: url('../webfonts/FONTSPRINGDEMO-ArticulatCFItalic.woff2') format('woff2'),
+        url('../webfonts/FONTSPRINGDEMO-ArticulatCFItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
